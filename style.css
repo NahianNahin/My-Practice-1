@@ -2,3 +2,51 @@ body{
     font-family: 'Lato', sans-serif;
     margin: 0;
 }
+.container{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.flexiable-container{
+    display: flex;
+
+
+}
+.half-width{
+    width: 45%;
+    margin: 0 2.5%;
+}
+h1{
+    margin: 0;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.orangered{
+    color: orangered;
+}
+.p1{
+    color: gray;
+    margin: 0;
+    padding: 20px 0;
+}
+.btn{
+    text-decoration: none;
+    font-size: 18px;
+    background-color: orangered;
+    color: #fff;
+    padding: 15px 50px;
+    border-radius: 25px;
+    border: 0;
+    cursor: pointer;
+    font-weight: 700;
+    text-transform: uppercase;
+    box-shadow: 7px 7px 25px orange;
+
+
+    
+}
+.img-1{
+    width: 500px;
+    height: auto;
+}
