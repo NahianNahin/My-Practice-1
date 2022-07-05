@@ -56,6 +56,9 @@ h1{
     width: 300px;
     height: auto;
 }
+.recipie{
+    margin-bottom: 80px;
+}
 .center{
     text-align: center;
 }
@@ -68,3 +71,35 @@ h2{
     margin-bottom: 50px;
     line-height: 1.5;
 }
+.img-3{
+    width: 450px;
+    height: 340px;
+    margin: 20px;
+}
+.img-4{
+    width: 450px;
+    height: 340px;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+.p3{
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 35px;
+    margin-top: 0;
+}
+.p4{
+    font-size: 18px;
+    font-weight: 200;
+    padding-left: 35px;
+    line-height: 1.5;
+    
+}
+.box-shadow{
+    box-shadow: 7px 7px 20px gray;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+
